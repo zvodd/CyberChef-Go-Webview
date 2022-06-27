@@ -1,0 +1,1 @@
+go build -ldflags="-H windowsgui" -o build/cv.exe main.go
